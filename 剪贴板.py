@@ -332,6 +332,7 @@ class MultiClipboard:
                 
         # 添加新项
         new_item = {
+            # 'content': "当前值— " +可以仅用'content': 
             'content': "当前值— " + content ,
             'timestamp': datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         }
