@@ -1,7 +1,10 @@
 # -全部由Ai生成
-## 剪贴板工具，deepseek v3.2生成，ctrl+c复制文本，win+c弹出GUI，支持编辑，删除单条，删除全部，需要安装keyboard、pyperclip‌，激活环境后pip install keyboard pyperclip
+## 剪贴板工具，deepseek v4生成，ctrl+c复制文本，win+c弹出GUI，支持快捷键粘贴（ctrl+1~0共10个快捷键）支持编辑，删除单条，删除全部，需要安装keyboard、pyperclip‌ screeninfo pyautogui，激活环境后pip install keyboard pyperclip screeninfo pyautogui
 
-<img width="402" height="532" alt="image" src="https://github.com/user-attachments/assets/88e157a3-6cd1-4e42-a241-0923dd82801d" />
+<img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/a9dd3389-7185-4399-a681-cfe30f09908e" />
+
+<img width="402" height="532" alt="image" src="https://github.com/user-attachments/assets/a55f6932-aeb4-41ce-aec9-acc255c6a7c2" />
+
 
 ## win系统放大镜，按键Z开启，放大区域跟随鼠标移动，X锁定放大窗口，放大区域仍跟随鼠标，需要安装pyautogui keyboard Pillow pywin32，激活环境执行pip install pyautogui keyboard Pillow pywin32。
 <img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/11e37b8f-1874-472f-b2e0-82d74bbe9616" />
